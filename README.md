@@ -63,7 +63,7 @@
 
 **RN**
 
-- Cada agendamento deve duar 1h exatamente;
+- Cada agendamento deve durar 1h exatamente;
 - Os agendamentos devem estar disponíveis entre 8h às 18h (Primeiro horário às 8h, último às 17h);
 - O usuário não pode agendar em um horário já ocupado;
 - O usuário não pode agendar em um horário que já passou;
